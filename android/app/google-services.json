@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "493187082154",
+    "firebase_url": "https://my-flutter-friendlychat-611d7.firebaseio.com",
+    "project_id": "my-flutter-friendlychat-611d7",
+    "storage_bucket": "my-flutter-friendlychat-611d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493187082154:android:b396552cc16d9761",
+        "android_client_info": {
+          "package_name": "com.yourcompany.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493187082154-i2mnqrjsso6n1m3vmi3po1n9l32u1eab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.friendlychat",
+            "certificate_hash": "aa878ba8d5395556a845b0ac921955bc9990ce5d"
+          }
+        },
+        {
+          "client_id": "493187082154-d015s7d3tc3avm0jehq5ie6uk3a919sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhWHpgZ713XIh7dYjSpHdO6wlO-K3Wns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493187082154-d015s7d3tc3avm0jehq5ie6uk3a919sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493187082154:android:e14275e62c4eec3e",
+        "android_client_info": {
+          "package_name": "com.MPadilla.firebasesandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493187082154-0t7jnbb7cb2afhjc9168gjcah4auc9ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MPadilla.firebasesandbox",
+            "certificate_hash": "aa878ba8d5395556a845b0ac921955bc9990ce5d"
+          }
+        },
+        {
+          "client_id": "493187082154-d015s7d3tc3avm0jehq5ie6uk3a919sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhWHpgZ713XIh7dYjSpHdO6wlO-K3Wns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493187082154-d015s7d3tc3avm0jehq5ie6uk3a919sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
